@@ -84,3 +84,15 @@ tr{
     display: block;
     margin: 0 0 0 auto;
 }
+
+.cuadro1{
+  background-size: cover;
+  max-width:400px;
+
+}
+
+.cuadro2{
+  background-size: cover;
+  max-width:400px;
+
+}
